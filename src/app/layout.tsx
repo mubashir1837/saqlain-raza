@@ -54,6 +54,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://saqlain-raza.vercel.app",
   },
+  verification: {
+    google: "s9XOAjsUOb55p5ahUtvX9ntkjn7FpvUXHqq_p4Nwphs",
+  },
   openGraph: {
     title: "Tech Data Axiom | Dr. Saqlain Raza - Public Health Consulting & Data Science",
     description:
